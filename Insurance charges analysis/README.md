@@ -1,7 +1,7 @@
 # 📊 Insurance Data Analysis (EDA)
 
 This project explores the **Insurance dataset** to understand how factors like age, BMI, gender, smoking habits, and region affect **medical charges**.  
-It focuses on uncovering insights through **Exploratory Data Analysis (EDA)** using Python.
+It covers insights through **Exploratory Data Analysis (EDA)** using Python.
 
 ---
 
@@ -9,8 +9,7 @@ It focuses on uncovering insights through **Exploratory Data Analysis (EDA)** us
 - Understand the structure and distribution of the dataset  
 - Identify key factors that influence insurance costs  
 - Visualize relationships between numerical and categorical variables  
-- Handle missing values and perform data cleaning  
-
+- Analyzing the data and performing plots operations
 ---
 
 ## 🧰 Tech Stack
