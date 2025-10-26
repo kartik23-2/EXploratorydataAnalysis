@@ -3,6 +3,7 @@
 This project explores the **Insurance dataset** to understand how factors like age, BMI, gender, smoking habits, and region affect **medical charges**.  
 It covers insights through **Exploratory Data Analysis (EDA)** using Python.
 
+**This dataset mainly focuses on the distribution of Charges across various factors
 ---
 
 ## 🧠 Objectives
