@@ -28,7 +28,7 @@ It covers insights through **Exploratory Data Analysis (EDA)** using Python.
 ---
 
 ## 📁 Files
-- `insurance.csv` — dataset  
-- `insurance_eda.ipynb` — notebook containing all analysis and visualizations  
+- `charges.csv` — dataset  
+- `chargesEDA.ipynb` — notebook containing all analysis and visualizations  
 
 ---
